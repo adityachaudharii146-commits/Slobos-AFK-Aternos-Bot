@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "bakchodimc.enderman.cloud",
+    "port": 50989,
     "version": "",
     "try-creative": false
   },
